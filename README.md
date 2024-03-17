@@ -37,7 +37,7 @@
 css 코드를 내부스타일 방식으로 작성하여 아래와 같은 결과를 만들어보세요!!
 
 변경을 완료하셨다면 색상도 자유자제로 변경해보셔도 됩니다.
-![IMG1](question/assets/image-1.png)
+![IMG1](question/assets/image1.png)
 
 ### 2번문제: 우리 조원의 mbti가 궁금해요! 서로의 mbti를 공유하고 이름과 mbti를 작성합니다!
 
@@ -53,7 +53,7 @@ css 코드를 내부스타일 방식으로 작성하여 아래와 같은 결과�
 아래 원래 이미지에는 이렇게 내용이 존재합니다!.
 그렇지만 지금은 아무것도 보이지 않아요...
 이미지 태그를 사용해서 이미지를 넣어주고 안에 들어갈 글씨 내용을 채워주세요!!
-![IMG3](question/assets/image-1.pnge.png)
+![IMG3](question/assets/image-1.png)
 
 ## (참고)cmd 명령어
 

@@ -48,7 +48,7 @@ body {
 }
 
 .card:hover img {
-  filter: grayscale(10%) brightness(0.4);
+  filter: grayscale(20%) brightness(0.4);
 }
 .card:hover::after {
   opacity: 1;
